@@ -1,9 +1,9 @@
 == Qi ==
 Contributors: qodeinteractive
 Requires at least: 5.0
-Tested up to: 6.4
+Tested up to: 7.1
 Requires PHP: 5.6
-Stable tag: 1.3
+Stable tag: 1.3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -84,6 +84,9 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 == Changelog ==
+
+= 1.3.1 - 24-11-2026 =
+- Added compatibility for WordPress 7.X
 
 = 1.3 - 06-06-2024 =
 - Added support for custom columns responsive stage (1440px-1680px) for list shortcodes

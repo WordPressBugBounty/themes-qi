@@ -855,7 +855,6 @@ iframe.instagram-media {
 	padding: 0;
 	line-height: 1;
 	clip: rect(1px, 1px, 1px, 1px);
-	-webkit-clip-path: inset(50%);
 	clip-path: inset(50%);
 	border: 0;
 	word-wrap: normal !important;
@@ -879,7 +878,6 @@ iframe.instagram-media {
 	border-radius: 3px;
 	box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
 	clip: auto !important;
-	-webkit-clip-path: none;
 	clip-path: none;
 	z-index: 100000;
 	/* Above WP toolbar. */
@@ -2285,7 +2283,6 @@ body #qodef-page-footer .select2-container--default .select2-selection--multiple
 	overflow: hidden !important;
 	white-space: nowrap !important;
 	clip: rect(0 0 0 0) !important;
-	-webkit-clip-path: inset(50%) !important;
 	clip-path: inset(50%) !important;
 }
 
@@ -7361,7 +7358,6 @@ button.mfp-arrow:hover {
 	position: relative;
 	width: calc(100% - 26px) !important;
 	margin: 0 13px;
-	overflow: hidden;
 }
 
 #qodef-woo-page.qodef--single .woocommerce-product-gallery .woocommerce-product-gallery__wrapper > .qodef-woo-thumbnails-wrapper {
