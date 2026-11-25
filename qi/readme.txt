@@ -3,7 +3,7 @@ Contributors: qodeinteractive
 Requires at least: 5.0
 Tested up to: 7.1
 Requires PHP: 5.6
-Stable tag: 1.3.1
+Stable tag: 1.3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -84,6 +84,9 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 == Changelog ==
+
+= 1.3.2 - 25-11-2026 =
+- Improved Cross Site Scripting (XSS) vulnerability
 
 = 1.3.1 - 24-11-2026 =
 - Added compatibility for WordPress 7.X
